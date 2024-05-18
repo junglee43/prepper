@@ -1,0 +1,254 @@
+#+STARTUP: indent
+#+FILETAGS: writing fiction "prepper"
+
+* Story outline
+1. A rich tech bro named Sam meets someone at a tech coference who convinces him to take climate change scenarios seriously
+2. Sam goes into the rabbit hole and makes tentative attempts to become active, but winds up just depressed
+3. After meeting another connection he realizes that he is way behind on building or making a bunker/homestead and he becomes an obsessed prepper
+4. He spends 5 years dedicating his life to a remote bunker to survive climate breakdown and societal collapse
+5. Collapse happens sooner and faster than scientists anticipated and Sam retreats to his bunker with complete confidence
+6. But he forgets something very important that he did not foresee in his rational mechanical westernized world view. This could possibly be: other humans, an unforeseen consequence, or simply an simple object that he overlooked
+   The thing here is that it must be a key aspect of his personality, like maybe he's a people person and can't stand to be alone
+
+** Sam's character and story
+What is the key about Sam that makes this turn?
+Sam needs connection, validation from other people that's like a personality trait of his
+He also needs a purpose or goal, without it he easily falls into the dolldrums that turns into ennui
+He is always either moving towards something or talking to someone that has to be shown and dramatized
+He has a long term partner but they have been going through ups and downs, something about the relationship that reverberates with the rest of the theme...
+Had an idea earlier that he was going to meet someone ecological during this and they fight about the bunker plan, that does make sense but have to show his obsession or need for company, people, things, activities, goals, make that into a thing
+** TODO He is like the type A geek who abhorrs a vaccum -> add the plot points on 2nd draft
+
+* Prelude
+There is a very wide spectrum of, shall we say concern, awareness, or maybe we should call it knowledge in terms of the inevitable inexhortable effects of climate change.
+
+If one were to measure or graph it, it would most likely resemble a regular distribution, or a bell curve, with less than 10% of the population believing that the whole thing is a hoax by a secret organization to perpetrate a single new world order at the far left end of the spectrum, and the doomers at the other end, who very much like the homeless zealot on 32nd and 7th Avenue are continually reminding people of imminent apocalypse in a rather boorish manner.
+
+With the rest of us sitting in the fat middle of the curve, vaguely worried, sometimes alarmed, but easily distracted by so many other immediate concerns; like get me the fuck out of this hell hole, is my wife having an affair, does this make me look fat, what will I do about dinner, how am I going to get through another day of this, does my child have RSV the new repsiratory virus and why isn't she getting better, and what is the little bumps on her face, and what about the fever the other day and how she was hallucinating and couldn't speak or describe anything because it was too crazy like she was having a mental breakdown, and the micro-plastics they found in everything including the placenta, should I be eating cheerios even though with the forever chemicals, and I have to rinse the bottles and get a metal straw so I'm not killing the loggerhead turtles, is the bird-flu jumping into mamal species with DNA traces being confirmed in pastuerizied milk something I need to pay attention to, and maybe I should start getting the ultra pasturized that come in the boxes that last forever you can find sometimes at the big box stores, and so on.
+
+Maybe the problem is not the lack of political will, or cohesion, but rather the lack of attentional space that's part of modern digital life, in humanity's complete abdication of reason, duty, and simple survival common sense. Maybe it's not that we lacked the strength or foresight but that we were fragmented and distracted to madness.
+
+This is a story about a man's journey from the concerned, but too busy really to think about it and what can I really do anyway, middle of the bell curve to the far end of climate change doomer and prepper extremism. This tale will not try to convince anyone of the reality of our present predicament or concern itself on the other fringe of climate change deniers... They can go eat shit really for all I care.
+
+* Sam meets Alex
+Sam was searching for the next big thing when he ran into Alex at TechSpo Labs conference in San Diego. Sam had been searching for the next big thing for 8 years; for 3 girlfriends, 4 apartments, 3 Burning Mans, and 8,762 nitro cold brews Sam has been searching for a job.
+
+When you have 42.7 million in investments with an average return of 10.7%, you can take you time about things. For Sam, a job was a calling, a devotion, a reason d'etre, and so he was quite picky about it. When you don't have to work, it's hard to find a job.
+
+It was considered crass to talk about money; to talk about how much you had netted out from stock options in your startup, even though that was the final goal, just as it is considered crass to talk about death and philosophy as if you could be bothered.
+
+You just kind of knew, who was who and who had cashed out and how much. It was like a running leaderboard that was constantly in your mind or blasting the finaly tally in the sky. Something nobody really thought about or admitted to themselves was how most of the time it was just luck, it was just the luck whether you'd made it or failed. Post fact, they attributed it to technical wizardry, resiliance, their 'willingness to fail', risk tolerance, but generally it was most about where you were when and who you knew; of course ruthless business practices helped too but no one talked about these things just like no one really talks about anything in a bald faced no nonesense way. Everything you learn is mostly fairy tales. But moving on...
+
+# My tone and subject matter is reminding me of that english writer... the one about fuck it will look it up later
+
+Sam was invited to TechSpo pre-party at a founder's house up on a hill overlooking the beach and the ocean. It was one of those southern california nights; 72 degrees farenheit, zero humidity, with cool westerly breeze that reminded you of the Greek islands,  wispy stratospheric clouds highlighing the sky and the setting sun across the bay. It was heaven and perfection on earth for those who had eyes to see, and heart to feel.
+
+But Sam was busy trying to find the next big thing, he flittered from group to group listening in on conversations and saying hi to people he knew. He was in his late thirties and worried that he might be running out of time to change the world, to make a hundred millions dollars, and to make a mark of his passage on the earth. Because that was the goal, get rich while changing the world for the better. What mark does the cloud leave when it turns to rain to nourish the earth?
+
+While thus scouring the party for tidbits of gossip, news, and the next big thing Sam spied Alex on the balcony. Alex was alone, staring off into the western horizon watching the last bit of the light as it disappeared over the pacific ocean, as the first stars began to glimmer in the expanse of the darkness above them.
+
+"Fancy meeting you here!" Sam called out. Sam didn't really like Alex but he had an instatiable need to keep tabs on people and hadn't seen him in years. Alex had dropped out of the scene completely and Sam's curiosity drove him; things needed to be labeled, categorized and put in their boxes so they could be closed and filed away. Besides, Alex was an influential tech guru, practically a billionaire, and a super successful guy in general.
+
+Alex did not turn around or respond. Sam determined, walked up to him about to yell out: "Hey Alex!" but before he could get the words out, he noticed that tears were streaming down Alex's face.
+
+"There's so much to lose," Alex said. "We have ten, fifteen years before the shit really hits the fan. Before it comes crashing down."
+
+Sam had heard that Alex wasn't the same after his last trip to South American on a Ayahusca tour, but he did not expect to be talking to a doomer. Ugh, they were just the worst. They made you feel quilty for just breathing and being lucky enough to be born in the western hemisphere.
+
+"You were in Cali last year right? The flooding, fires, the mass die offs, fucking Biblical shit and I thought it would be a wake up call," he continues, "I mean we're the most connected, affluent, influential group of people in the world here. But nothing. Nothing but teslas, stock options, and everyone trying to cash out."
+
+"I thought," he continued, "if enough people understood, we'd reach a critical mass, a turning point right? There's that study that says only 3% of the population needs to be mobilized for revolution. There's so much we can do still, there's so much we can do collectively to mitigate a part of what's coming down the pipeline. But no one wants to hear it, no one wants to face any of it. It's too big for them, too hairy and uncomfortble. The captains of industry, the best and brightest in the world are nothing more than a bunch of faggots running around in a continual circle jerk," Alex said laughing at the last sentence.
+
+"I don't get it. So we're not going to reach the Paris accords targets for 1.5C but we still have fifty years or so until..."
+
+"I'm tired of your dumb shit Sam, you don't think the Pentagon and US goverment has contingency plans for what's coming? Do you know why Bill Gates is the 4th largest agricultural land owner in North America? Do you know that Peter Thielson, and Marc Andersson all have the collapse bunkers in Canada and New Zealand? We are fucked Sam, and the only thing left to do is to prepare for what's coming."
+
+Alex had become the thing that tech people made fun of, an earnest, monomanical, obessessed, granola, and whole food kind of square liberal enviornmentalist. Some of Sam and his ilk had a name for these, they called them 'squishies.'
+
+The only thing that kept Sam from shrugging all this off as delusional and fantastical nonesense was what he knew of Alex. Alex was a brilliant technologist who through the last fifteen years had been at the cusp of every new technological wave; he had invested early in AI, and the hardware accelerators that ran them, he had championed the electric vehical shift and was a board member of tesla, among numerous other small and medium successes that had proven Alex to be a kind of seer, one who could see what was to be, could see the swelling of the wave and feel the tectonic shifts before they were evident to the population at large.
+
+"Well, nice to see you Alex. Let me know if I can help with anything, you know?" Sam backed away before he could be cornered and lectured about the moral quandaries of being a 21st century human. But before he could escape Alex shoved a manuscript in his face saying, "Take this, it may at least open your eyes!" Alex then stomped away into.
+
+* Sam changes his mind
+The manuscript Alex had thrust upon him was a copy of UN's IPCC (Intergovernmental Panel on Climate Change) 2023  it was not the officially released version but rather the draft of it, with comments, and redactions, and email threads of the drafting process, along with pages and pages of transcribed meeting notes and additional papers and studies, some of which had never been published. Like the rest of the world Sam was aware of the lastes release and it's dire warnings from the New York Times, but he hadn't yet gotten around to reading the full article. He hadn't really read the newspaper or journal reportings of it either, it was on his ever growing digital reading list. He'd kinda just read the headlines and skimmed the first paragraph to get the gist of the thing before scrolling on to the next tidbit of datum and losing the thread of where he was.
+
+# I think something else needs to happen here, he goes to rejoin the party and just files it away for a while and keeps living his life and we see him with his girlfriend, and just list out his life like an ai calendar schedule or something. But something happens that makes him dig out the manuscript
+
+Sam walked back towards the house, the music, and the party, trying to make out the words in the manuscript, in search of a steady reading light. All the while reading words of the manuscript Alex had pushed into his hands. Sam was not and never was an environmentalist, he was a technologist who believed in the distinctly San Palo Alto version of capitalist liberal tecno optimism; there was a rational and likely technological solution to most problems and they could be solved by the free-market mechanism of free flowing capital moving towards the optimal solution set of entrepuerial enterprise. But as he sat in kitchenette bench next to the olypmic sized infinity pool, under a dome of warm LED lighting in wood paneled luxury imported fromt dying Indonesian hard wood forest, Sam read on and possibly for the first time, a glimmer of the thought began to grow in him like a seed, or a drop of dye dropped into a solution, that maybe, possibly, just maybe, there was a chance that tomorrow would not be better than yesterday; that maybe civilization and progress was not a linearly rising tide lifting all boats higher.As Sam read, this passage stuck with him and reverberated in his mind for the next five years: "We are in a precipitous moment in our climate history, where what we do or fail to do in the next 10 years will inevitably chart the course of earth's climatic future for the next millenia. If we fail to act, we will unleash the climate tipping points that will flip earth's climate into a new regime that no human has experienced in the 2 million years of our evolution."
+
+# The above quote is good, I'm impressed with me just winging that out of the blue
+# Would like to show something about collective action, how we don't know what that is, and we're no longer practiced at it, how the collective ideals of the early tech revolution was smashed and destroyed and it is what it is now
+# Maybe Sam tries to act, kind of half heartedly but fails, would be good to have a bit of comedy of errors here
+
+For the duration of the evening Sam sat in the same spot as the party goers, danced, drank, and jostled around him reading the 242 pages of the manuscript. At around 2AM as the revelers were beginning to disperse and the music had stopped Sam flipped the last page of printout and glanced around him at the detritus of the party, the bleary closers, and bitter enders, trying to get the party to go on, the cups and bottles half drunk lying everywhere and said to no one: "I found the next big thing." The girl next to him promptly vomited into his lap.
+
+* Sam goes into the rabbit hole
+For the next 8 months Sam consumed everything he could about the imminent climate collapse. He tried his best to keep to the respected sources but the fringe was everywhere, almost seemed like everything was fringe in this enviornment. And as he entered the vortex, he had a harder and harder time knowing what was conspiratorial fringe and what wasn't. It almost seemed like everything falling off into extremes.
+
+The scientists were privately in a depressive panic at the slow pace of change, they felt like Cassandra's warning of the eminent doom of everything around them but everybody just marched on, unheeding, blind, uncomprehending, or just ignorant. The scientists were now, he was aware, were in deep anxiety and desperate about the excalating examples of accelerating changes that was piling up everywhere and smashing their expectations and forecasts by decades. Some took to drinking, some took to activism, others buried themselves deeper into the work grimly, like the civilians around them who just kept marching on like lemmings off a cliff; every morning waking up, going to starbucks, working their meaningless jobs to make other people rich or make disposable things no one wanted, just a constant churn of activity to keep the machine moving and at the core of it, at the very core of it, what was it? What was the point? It was like a machine that they had built and now that they were slaves to, unable to escape the constant treadmill of continuing on endlessly, and to what end no one could say.
+# Show examples and cutouts of the climate scientists, the crying, the different ways they are dealing with this, like a mosaic somehow, want to give a photorealistic glimpse of it, but at a glance
+# Maybe Sam actually runs into one protesting a tech giant as he's going there for a meeting and that makes him read the manuscript, maybe someone he knew?
+# Maybe Sam reaches out to one of these scientists for feedback and advice, and hires him as a consultant. Might be a good personality clash and drama in their interactions
+
+The scientists no longer went to parties, or social events, they felt that they could not make small talk, or continue to play the game of polite western civilization when the whole thing was heading off a cliff faster and faster than they could report. Things moving faster and faster than they had predicted. When their neighbors talked about spending their summers in Spain or flying to the Alps for the holidays, when they talked about buying a condo in South Carolina or Florida, they choked, smiled almost embarrassed at them and nodded as if they were children who had asked them if God exited, if there was life after death and if Santa Claus would visit them in the night and leave presents.
+# Change or cut
+# It might actually be a decent scene vs narration, where maybe Sam is the one who chokes, maybe it's his girlfriend
+
+In the intervening days and weeks Sam learned of the albido effect, MOC slow down in the Atlantic, the moulins in the Greenland icesheet, the methane crystals deep in the ocean floor that would dissolve, the trillion tons of carbon thawing in the siberia permafrost, the unprecendented fires there, the ocean carbon cycle and how after a certain temp limit the ocean would turn from a carbon sink to a carbon producer, and the more he read, the more he walked around looking at the world in wonder really, looking at everything going on, kind of like a nightmare where you're running for your life or screaming but nothing comes out, no one hears. The more he read, the more he found out, the more he thought that it was just a matter of time. What we were doing to the environment was lighting the fuse of a ticking time bomb and it was just a matter of time until the slumbering monster awoke like it has so often before in the past, lurching from one climate regime into another and shaking everything off like fleas. Most people would die either quickly or slowly, most models called for up to 3 billion die off once 2C was reached due to famine.
+# Want to do some reading and research on the topics above, want this to be drawn from real studies with appendix. But more than really getting bogged down here with details and science, maybe it can be just quotes, blurbs, titles, social media posts that show each
+# A new method or something needs to change here
+
+The bearucratic world organizations and summits were like circus shows before the climatic bomb dropped. Like the bizarre outflowering of WWI and WW2. The ineffectuality was endemic at this point and everyone who knew the score was just trying to get what was there's before someone else took what was theirs. It became clear that Sam that there was really just one rational action, and that was to prepare as best as one could to survive the collapse, that was what the US military and the billionaires were already doing. That was partly why the seed banks were set up in the Norway everlasting winter. If he could just get a hold of Marc Andersson and get a tour of his facility, surely there was no need to do all the background research preparation again, surely there was an existing knowledge base or repo on the best practices and possible exisgencies one would need to account for to build and organize a survival bunker.
+# Sam began to wonder, who knew and who didn't and who was keeping it all under wraps?
+# It was like the housing market of 2008, everyone knew something but nobody talked about it because everyone was getting rich
+
+The more Sam read and became immersed in the literature the more he was shocked at how obviously dire things were, but how the world kept going, you still went on vacation and still worried about retirement and still socked in $200 a month for your child's 429, the disconnect from what he knew and the reality around him was uncanny and bizarre. Sam began to understand the need that Alex had felt, the need to warn, to convince, to show the people around him that we were on the fucking titanic and we have to change course 20 fucking years ago. That was really the cherry on top, the complete and total disconnect of people and everyday life from the cold hard reality of things. He felt like someone trapped in a Philip K. Dick story, where everyone lived a white picket fence fucking life but he knew that the asteroid was coming to hit earth and we were the dinosaurs going to be decimated in place.
+
+It was a similar presentiment he had had as a 10 year old, everyone and everything was going to die, and it was all a meaningless game, a jumble, but everyone carried on, everyone acted as if none of this was a fact. They want to work they hated, lived lives of strange desperation.
+# Cut whole section or change
+# It's voicing the same kind of sentiment over and over
+# Show conversation between Sam and another 'ratonal' person, Sam trying to convince him of the future but the guy just shruggs it off
+# Could be part of his attempt at activism, show the kind of limitedness of it here, they just ask for money and for you to join a mailign list where they ask for more money
+
+Sam lost interest in most things, in all the things he used to once enjoy, climbing at the local gym, the 12 dollar cold brew he regularly used to get, the entire design and tech sector, all the cool things, that he'd spend the last twenty years eating, living, and breathing seemed like part of the disease and misuse of everything. He could not reconcile the new found heavy truth of what he now knew with the everyday and it's concerns. He was in a classic Cassandra's bind. What does one do now?
+# Like all of this is telling instead of showing... like this whole thing needs to be rewritten, like how do I dramatize all of it in events instead of just narrating it?
+
+Sam almost fell into a drepression, there were days where he just doomscrolled the day away in bed, watching the colors burn and fade through the window curtains. Maybe if Sam had actually let himself feel, had been able to integrated the emotional and pyschological baggage of this existential knowledge and incorporate it, if he had been able to let it in and move into and through the darkness, Sam might have taken a different path. As it was, Sam stared into the horror of civilizational collapse, a thousand years of suffering, and decided; "I gotta save myself. I have to lookout for number one."
+# This turning point or transition could be better, like maybe he things or believes that he's going to be an island or a beacon in the desert somehow, he will help to restart the world and humanity. By helping himself he could help the world, by being selfish he was serving the greater good, this is the same logic that current climate startups and silicon valley implicitly believes and it's sickening.
+
+# Maybe add a short section on how he tries to do the right things and join a climate change group, but they are bogged down in fundraising and he gets assigned to cold call people and after a week of this he's had enough, and how he meets the activists and the radicals, and the hippies and he doesn't belong or fit with any of them...
+
+* Sam prepares for the collapse
+# Cut everything below or rework, go straight to "construction of bunker"
+
+It was the obvious and most rational thing to do really. If you could not change the course of things, if you can't even affect the perspective and lives of your immediate family members much less your government, country, if things are not going to change and they did not seem to be, then it only makes sense to take the necessary precautions to get yours and fuck the rest.
+# I'm just trying to get mine, and he trying to get his... Hip hop quotes here would be good, it's the law of the jungle
+
+It was obvious he had to move out of California, the wildfires, the depletion of the water table, and everything just cost too much here, he could easily blow through a couple of million and not get really anywhere.
+
+# Wonder if there's a point to adding a section where a climate refugee meets with Sam, maybe he is doing activism and they meet and he interviews him for his own self interest, possibly pulling this from real reports
+
+# Idea about Sam meeting someone while he is trying activism someone who he falls for? And where does this go? She can be the true ratinonal voice who refuses to go, and there is also the scientist consultant, those will be voices and dialectic in the story
+
+Sam quickly realized that he had to keep complete secrecy on the bunker, once anyone knew then he would become a possible target or refuge when shit hits the fan, if he decided to take refugees or any other people into the bunker to carrying capacity would have to be doubled, then tripled and things could easily sprial out of control.
+# Cut
+
+Construction of the bunker was surprisingly the easiest part of the process [everything else is hard but consumerism is easy, like activism, collectivism, permaculture, real life is messy], once he began researching it, he found dozens of contruction and consulting companies catering to this demand. In a lot of cases they had done the background research and ran simulation scenarios using the cutting edge climate models. Sam picked the company rumored to have built Peter Thiel's New Zealand complex, they had beautiful powerpoints and brochures for each income bracket or sales brackets, of course they did not advertise it as such, but were named after the 5 rarest metals in the universe; zircon, selenium, etc., Sam selected the Selenium packages at a cost of $80 million dollars. It was the single most expensive thing he had ever purchased.
+
+Shockproof was the company name, maybe or Forevermore from Poe? Maybe after the 300 story of the romans something reminiscent of that.
+# Maybe add how he joins a private slack or discord group that discusses this
+
+The bunker would take 4 years to build, would have electrostatic air filtration for nuclear fallout, geo-thermal heatpump and a backup propane system, a difference engine for the electricity storage, internal agricultural complex, indoor swimming pool, structural integrity tested up to 9+ on richter scale, and a storage silo to house enough food for up to 20 years for a single individual. Sam could have upgraded this to 10 or 12 years but there was a warranty that expired after the 6th year so he didn't. He knows that it doesn't make sense to have a warranty expiring for societal and ecological collapse.
+# Do some research or cut this like I don't even want to read this section
+
+For security there were 6 cybernaetic dog bots with machine guns, their facial recognition was a bit buggy he'd heard but they were rolling out a new patch shortly that would fix everything.
+# Expand slightly, add how Sam plays fetch with them
+
+There was a car that didn't have any input controls, it was all voice acitivated and self driving, it seemed a but strange... *wasn't the point of being human to control things and machines?*
+
+* Fail safe
+"The bunker is fail safe and guaranteed to last for over 100 years," she was saying. It was a business lunch, the company had scheduled an final sales lunch where Sam would sign the sales contract and the rep would answer any questions.
+
+Rhodium
+Palladium
+Gold
+Iridium
+Platinum
+
+Sam's lawyer and his collapse consultant had already reviewed the documents. He had spent two days reviewing the final plans with Richard the collapse consultant. Reviewing the daily caloric inputs and collating that with the food storage silos.
+
+They went over the possible power loss and back ups, the fail safes and alternates that they planned for. This was six sigma functional tolerance stress tested, every failure point was considered and multiple back ups and or alternates planned for.
+# All of this is kinda boring and beside the point, now that I'm reading it over
+# I understand that it was necessary to write this in V0 as your thinking it through but just not interesting because it's not about the story
+# Basically need to expand details that have to do with the story and cut everything else
+
+# Maybe add an single example of this and they talk over it and imply everything else. They have an argument about something, some small petty esoteric detail that expanse to something bigger or shows how far in they've gotten into the weeds
+
+# What's the very human thing that Sam doesn't account for? Let's make it about people and connections but how can I make it work? Like he's a tech It's funny, this is like the point of the story, the crux of it and I have spent zero time thinking about it...
+
+* Collapse
+In the end it wasn't anything spectacular, it was kind of a let down. Eight hundred years of western civilization, all the triumphs of science could not get around a very simple physical principal of the carbon molecule and photons. It was simply, deliciously ironic. William Gibson was right of course: "the future is already here, it's just unevenly distributed." [This would be the connection to the climate refugee character if he is added]. It was the same things that had happened in Subsarahan Africa [add examples and countries and have notes to articles]. It was just bigger and the collapse unfurled headlong like a stumbling uncoordinated five year old tantrum that raged across the US and the western hemishpere like a cloud of unknowing.
+
+It happened, but no one could really say when it happened. The truth was that it had been happening all along. The seed was in the beginning. The logic was irrevocable. The crop failures started, prices of basic staples shot up, things started to get a bit edgy. You heard distantly like you always do about some government falling, some famines somewhere, then you wake up and walk out to get a morning cup of coffee and the collapse is at your doorstep. There are lines at the gas station, the coffee shop is closed, and you see a wall of smoke and flames coming towards you from the west whipped up by the santa maria winds. And it's not like in any movie, it's hyper real in a surreal dream like way impossible to describe. It was like something you've seen before, it starts to crack and bend, then all of a sudden the damn breaks and it's over and done.
+
+As Sam was watching the destabilization he had anticipated and prepared for five years unfold around him, he didn't know when he should head into the bunker, was it just going to continue like this for years? They say it took Rome a hundred years to fall but that the final sack only took a day.
+# Research above facts
+# I think I need to stay as close as possible to POV of Sam and make it into his story, I read all this 3rd person narration and most of it is boring, even though there are some words and phrases that hit
+But this wasn't the fall of an empire, it was the fall of human civilization as we knew it, it was the collapse of the stable climate regime that life itself had depended on for the past millenia. Sam watched but did not know when to engage the plan, the plan he called: "Operation Popcorn," as in let's pop this cornstand.
+# Can add the private discord chats here, all the preppers talking about when to pull the plug
+
+# Sam's girlfriend refuses to leave, he tries to convince her but she refuses. This doesn't really carry the point of the original idea across does it? Did have this thought that he cuts corners, and does the calculation and decides that the resources needed for 2 people will drastically shorten the life carrying span of the bunker. It should be like a decision he makes, it's a symptom of man's blindness, a man's blindness to the interconnected reality of things. The interdependence of all things, maybe explore this buddhist idea further.
+
+Sam finally decided to go in when the president stopped making public appearances and Taylor Swift cancelled her north american 'the look' tour, he figured if anything was a signal that was it.
+# I like this, this is funny and unexpected
+
+# Need to add scene when he finally travels to the bunker and closes it, saying goodbye to the world as he knew it
+# It's the decision point and a significant transition
+# Like I see him going to do some capitalist shit, he's coming out of the supermarket and someone is just robbing the supermarket with an AK-47 while you see the glow of the fires and the smoke is being whipped into your eyes and he thinks fuck, it's happened quickly
+
+It was like all the movies and books you saved but never read because you didn't want to. It was the same kind of thinking that limited your ability anticipate. Sam really did not have any experience in deprivation or doing things alone. He did go glamping and to burning man but that was kinda it. He didn't know what it was like to go through a month on rations. Unfortunately for Sam, that planners and cooks of the Sellenium also did not account for the fickleness of the human mind and tastebuds. They were nutritionally rigorous, in that they were made to optimize storage and nutritional degradation without being frozen, taste and variety were secondary concerns.
+# Rewrite and rework above
+
+# Need a description of the collapse, kind of what happens and what are the consequences, maybe he has a chance to save more people but doesn't risk it
+
+# !Maybe add how he has a calendar full of prepper stuff: at 1PM he has a shooting class at a gun range, at 9am he has a edible foraging tour, etc. and maybe just describe a scene and the people in it. It's just funny, but then he does something that's like the opposite of prepper, showing how hard it is to maintain consistency or something how unreal it is. Might make sense to do some real prepper research for this if it gets bigger but for now want to keep it short short short
+
+* Sam chooses oblivion
+# This is another pattern where in the beginning of the story I feel like I can see it and feel the filaments holding it together but after the middle part, I'm lost and I can't see it. In the beginning when I imagine it, I can see it like it's a movie or a graphic novel but after the start I just try to muddle along and get lost in tangents
+
+# There's a conflict in my writing style proclivities and what I'm trying to do now... It's the tension between like more creative fiction and plot driven stories. The interior vs the action, where I almost need the interior to write or for anything to make sense, but it's not really necessary in a plot driven story
+
+In the end, the collapse of farming and foodstocks caused the collapse of the financial system which eventually led to political conflict which escalated into loud talking, threats, war, and finally nuclear fallout. US fired the first round and China retaliated, obliterating the eastern coast and knocking out most of the nuclear missile silos across the US. The following nuclear winter that encircled the globe decimated any larger human population centers around the world and put earth into the 6th great extinction. Accelerating what was already locked in place by a factor of thousands of years. The US did not consider a full out retaliatory attack by China, most simulations and AI models suggested more posturing and threats. I guess they fucked around and found out.
+
+Without the satellites, the technical infrastructure also collapsed immediately like a stack of cards, leaving the survivors isolated and unable to communicate, each man now truly was an island and a soveriegn onto himself.
+
+Living alone 500 meters dug into the bedrock of the norther eastern Canadian granite, over 2 hundred miles from any human town or outpost; that was the plan, humans were the main threat to survival according to the collapse consultants, so one of the main priorities of the bunker had been remoteness. Now 2 years into bunker life, Sam had a few regrets.
+
+Sam wished that he had splurged on the more expensive single origin vacuum sealed coffee beans, but they had been so expensive compared to the generic grounds, costing four times as much for pound and over 50 years the cost was astronomical and outrageous! But now his morning coffee was bitter and black, lacking any depth or complexity. The cold brew nitrous machine may have been worth the 12k as well, Sam thought and sighed as he sipped his coffee without any joy. It was the same with the rest of bunker life, it was mechanical and industrial and gray.
+
+For the first month or two immediately after he had relocated to the bunker and sealed the entrance, he had been active, industrious; regularly going through his prescribed regiments and chores. There was a life optimization maintenance manual that came with a bunker, 2 copies in case one was lost or damaged. It was the size of a telephone book and had all the mechanical chores the occupant must engage in to maintain and keep the bunker in good shape so it would last for the warraty, a break in the maintentance schedule could null the warranty. But month after month of the same routine had worn on him and he had become slothful, dirty, and negligent.
+
+There was an indoor hydronphonic vertical farm that Sam had started to neglect, the garbage bins had not been ejected and trash were piling up in the kitchen, the bedroom, everywhere. The air filter hadn't been swapped out and a full gas regeneration protocol had not been completed and so there was a staleness to the air that had been re-circulating the same molecules for weeks at a time. Things were beginning to fray.
+
+Sam had imagined things differently in his mind. He definitely experienced some shaden-fraude in the beginning as he watched the events unfolding on satellite news. But now... now he was just bored, bored out of his mind.
+# Above synopsis is ok but doesn't pop, how can I show the progression or orderly discipline and collapse the time frame in a dramatic way?
+# There definitely needs to be an AI component or maybe not, it's too energy heavy to run
+
+# This is just like the issue I had with previous story, it's not one thing or another, it's like in-between, it should be more extreme and surreal or more realistic and factual but it's just straddles a mediocre line inbetween (this is kind of a reflection of me I think). I'm also contantly telling and summarizing things vs. showing and creating scenes, it's like a beginning writers weakness. I mean what's memorable are the people and the action not the telling
+
+Sam crying in the shower
+Sam throwing a temper tantrum while doing a chore he doesn't want to do
+
+The amount of things that had to be done and taken care of with the bunker was exhausting Sam thought. It wasn't something he was really used to, he had lived in apartments and condos all his life, always with a cleaning lady, and he definitely could not be bothered to cook. It wouldn't really be making optimal use of his time and talents, would it? There were people who were more suited to those types of tasks and he availed himself of their services and talents. His talent was more cerebral, more creative, and idea generation, his talent was why he was where he was and why they were where they were.
+
+Sam unable to get up in the morning because there is no reason to
+# This entire section needs to be tightened up
+# What does it mean to be alone? What a man does when no one is looking is what he really is or some quote like that... and use it to mock Sam in a way
+
+Of course he had considered all the issues and had a digital library larger than the library of congress (maybe something breaks and he can't access it, it's a network thing that no one considered), with over a million books, music, shows, and movies. He tried to read but could not concentrate, none of it seemed to make sense or was relevant at this juncture, "Deep Work," "How to increase productivity," "some other titles," including some fiction classics none of these spoke to what Sam was experiencing now.
+
+He flips through a poem book but there is no nature here, and there is no future here. He runs across a quote and it hits him, he touches the screen but there's nothing to touch.
+# Would like to find a poem that speaks to this condition and maybe quote it. See T.S. Eliot.
+# Actually maybe I need to find a poem that speaks about love and the need for human connection and highlight that
+
+Sam tries to watch a comedy but comedies or movies only work or mean anything in a larger context, it's embedded within the whole fabric, without it it's meaningless. Sam starts laughing at a show but then stops and throws the remote at it.
+# Maybe the office or seinfeld?
+
+# How can I empahsize and show the hyper material mechanical opportunistic calculating aspect of his mind? It also has to be part of his actions and what he does. It should involve his decision not to invite or tell his girlfriend, the flatness and capitalistic game theory of such a mind. Want to do this but don't want to spend too much time making it real, ugh. Contiunally coming back to DFW as a good example to copy and parody here, but also want to be me and find me and not try to be something else. I should just try to find my own way instead of looking outside right now
+
+Sam watches videos from his iphone captured months before he left, it's a stupid video but he plays it over and over. In it, Natalie is across from him at a cafe table and she's looking off into right and feeding a cat that's just off camera.
+# This is good maybe, need to detail or expand on this
+
+Sam regrets a few things, and he doesn't want to keep this going any longer. His mind that runs around like a hamster and which he can't shut off. Sam realizes that meaning only comes from a connection to people. That's it. There is nothing else in the world. He doesn't want to live when there is nothing worth living for.
+# Change this to make it implicit vs explicit
+
+Sam opens up a bottle of champaign, he had imagined saving it at some future date, when he could reimerge into the world but that's no longer happening. He opens up a cyanide capsule and pours it into the flute glass taking a deep drink and he lays down to die, he welcomes the oblivion he worked so hard against, and death becomes a welcome reprieve from the thoughts he can't escape.
+# Showcase Sam's liberatarian individualistic tendencies early in the story
+
+The Selenium crew find him dead in his bedroom while they are doing monthly maintenance. The whole thing had been a simulation.
+
+* TODO There's something essential missing here, a drama, a turning I think something needs to happen with his relationship
+He keeps this a secret, and she finds out, they fight and she walks off
+She finds the bunker a ridiculous idea
+Or maybe it's just an oversight or a blunder that he makes, not understanding his own human needs
+A scene from a popular movie he's watching but it doesn't mean anything because there is no fucking future or people duh
