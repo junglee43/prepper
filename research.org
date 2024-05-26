@@ -17,3 +17,7 @@ Delays of even a few years would most likely make that goal unattainable, guaran
 Under the current policies of national governments, Earth is on pace to heat up by 2.1 to 2.9 degrees Celsius this century, analysts have estimated.
 
 * https://tos.org/oceanography/article/is-the-atlantic-overturning-circulation-approaching-a-tipping-point
+
+* https://www.nature.com/articles/s41467-023-42198-2
+Rapid disintegration and weakening of ice shelves in North Greenland
+The glaciers of North Greenland are hosting enough ice to raise sea level by 2.1 m, and have long considered to be stable. This part of Greenland is buttressed by the last remaining ice shelves of the ice sheet. Here, we show that since 1978, ice shelves in North Greenland have lost more than 35% of their total volume, three of them collapsing completely.
