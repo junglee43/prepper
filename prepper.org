@@ -1,30 +1,7 @@
 #+STARTUP: indent
 #+FILETAGS: writing fiction "prepper"
-
-* Story outline
-1. A rich tech bro named Sam meets someone at a tech coference who convinces him to take climate change scenarios seriously
-2. Sam goes into the rabbit hole and makes tentative attempts to become active, but winds up just depressed
-3. After meeting another connection he realizes that he is way behind on building or making a bunker/homestead and he becomes an obsessed prepper
-4. He spends 5 years dedicating his life to a remote bunker to survive climate breakdown and societal collapse
-5. Collapse happens sooner and faster than scientists anticipated and Sam retreats to his bunker with complete confidence
-6. But he forgets something very important that he did not foresee in his rational mechanical westernized world view. This could possibly be: other humans, an unforeseen consequence, or simply an simple object that he overlooked
-   The thing here is that it must be a key aspect of his personality, like maybe he's a people person and can't stand to be alone
-
-** Sam's character and story
-What is the key about Sam that makes this turn?
-Sam needs connection, validation from other people that's like a personality trait of his
-He also needs a purpose or goal, without it he easily falls into the dolldrums that turns into ennui
-He is always either moving towards something or talking to someone that has to be shown and dramatized
-He has a long term partner but they have been going through ups and downs, something about the relationship that reverberates with the rest of the theme...
-Had an idea earlier that he was going to meet someone ecological during this and they fight about the bunker plan, that does make sense but have to show his obsession or need for company, people, things, activities, goals, make that into a thing
-** TODO He is like the type A geek who abhorrs a vaccum -> add the plot points on 2nd draft
-
 * Prelude
-There is a very wide spectrum of, shall we say concern, awareness, or maybe we should call it knowledge in terms of the inevitable inexhortable effects of climate change.
-
-If one were to measure or graph it, it would most likely resemble a regular distribution, or a bell curve, with less than 10% of the population believing that the whole thing is a hoax by a secret organization to perpetrate a single new world order at the far left end of the spectrum, and the doomers at the other end, who very much like the homeless zealot on 32nd and 7th Avenue are continually reminding people of imminent apocalypse in a rather boorish manner.
-
-With the rest of us sitting in the fat middle of the curve, vaguely worried, sometimes alarmed, but easily distracted by so many other immediate concerns; like get me the fuck out of this hell hole, is my wife having an affair, does this make me look fat, what will I do about dinner, how am I going to get through another day of this, does my child have RSV the new repsiratory virus and why isn't she getting better, and what is the little bumps on her face, and what about the fever the other day and how she was hallucinating and couldn't speak or describe anything because it was too crazy like she was having a mental breakdown, and the micro-plastics they found in everything including the placenta, should I be eating cheerios even though with the forever chemicals, and I have to rinse the bottles and get a metal straw so I'm not killing the loggerhead turtles, is the bird-flu jumping into mamal species with DNA traces being confirmed in pastuerizied milk something I need to pay attention to, and maybe I should start getting the ultra pasturized that come in the boxes that last forever you can find sometimes at the big box stores, and so on.
+There is a wide spectrum of concern, awareness, and knowledge of the inexhortable effects of climate change and it's possible consequences in the general public. Most of us are sitting in the fat middle of the ditribution curve, vaguely worried, sometimes alarmed, but easily distracted by many other much more immediate concerns; does my wife still love me, what will I do about dinner, , does my child have RSV the new repsiratory virus and why isn't she getting better, and what is the little bumps on her face, and what about the fever the other day and how she was hallucinating and couldn't speak or describe anything because it was too crazy like she was having a mental breakdown, and the micro-plastics they found in everything including the placenta, should I be eating cheerios even though with the forever chemicals, and I have to rinse the bottles and get a metal straw so I'm not killing the loggerhead turtles, is the bird-flu jumping into mamal species with DNA traces being confirmed in pastuerizied milk something I need to pay attention to, and maybe I should start getting the ultra pasturized that come in the boxes that last forever you can find sometimes at the big box stores, and so on.
 
 Maybe the problem is not the lack of political will, or cohesion, but rather the lack of attentional space that's part of modern digital life, in humanity's complete abdication of reason, duty, and simple survival common sense. Maybe it's not that we lacked the strength or foresight but that we were fragmented and distracted to madness.
 
@@ -95,9 +72,9 @@ In the following months Sam consumed everything he could about the subject of cl
 
 A substantial subset of climate change deniers believed that the issue was manufactured and staged to create a false sense of urgency to help the global, virgin-blood drinking, elite cabal usher in a new one world order.  But this was just more evidence of what was happening to the social order, the fracturing of the sense of shared reality, the convulsive and tortured expiriation of the shared national myth of America.
 
-The top climate scientists in the world were privately in a depressive panic at the unprecedented and rapid pace of change their instruments were measuring. Some took to drinking, some took to activism, others buried themselves grimly deeper into the the work like foot soldiers in a war. The burden of knowledge was an anathema to them. There were even those who, completely disillusioned with the state of things had moved into hermit like seclusion in the woods or joined Luddite communities like the Ahmish in Pennsilvania, or the nomads in Mongolia.
+The top climate scientists in the world were privately in a depressive panic at the unprecedented and rapid pace of change their instruments were measuring. Some took to drinking, some took to activism, others buried themselves grimly deeper into the the work like foot soldiers in a war. The burden of knowledge was anathema to them. There were even those who, completely disillusioned with the state of things had moved into hermit like seclusion in the woods or joined Luddite communities like the Ahmish in Pennsilvania, or the nomads in Mongolia.
 
-There were more and more articles about 'climate grief' and 'climate anxiety.' The scientist were the canaries in the coalmine, the Cassandras who could see clearly see the coming calamity but were powerless to do anything in their knowledge.
+There were more and more articles about 'climate grief' and 'climate anxiety.' The scientist were the canaries in the coalmine, the Cassandras who could see clearly see the coming calamity but were powerless to do anything in their knowledge and so they suffered, often alone and isolated.
 
 # Maybe Sam reaches out to one of these scientists for feedback and advice, and hires him as a consultant. Might be a good personality clash and drama in their interactions
 # Agree with above, quickly dramatizing the scene somehow
@@ -124,7 +101,17 @@ It became blindingly clear to Sam that it was just a matter of time. Humanity ha
 # Add a scene or story line about a help group talk theraphy session? I am in climate grief and I don't know what to do
 # !There's too much description and summarizing through this entire section, need to shorten, cut or make it dramatic somehow, rhythm is off!
 
-The more Sam read and became immersed in the literature the more he was shocked at how obviously dire things were, but how the world kept going, you still went on vacation and still worried about retirement and still socked in $200 a month for your child's 429, the disconnect from what he knew and the reality around him was uncanny and bizarre. Sam began to understand the need that Alex had felt, the need to warn, to convince, to show the people around him that we were on the fucking titanic and we have to change course 20 fucking years ago. That was really the cherry on top, the complete and total disconnect of people and everyday life from the cold hard reality of things. He felt like someone trapped in a Philip K. Dick story, where everyone lived a white picket fence fucking life but he knew that the asteroid was coming to hit earth and we were the dinosaurs going to be decimated in place.
+The more Sam read and became immersed in the literature the more he was shocked at how obviously dire things were, but the world kept going, you still went on vacation and still worried about retirement and still socked in $200 a month for your child's 429, the disconnect from what he knew and the reality around him was uncanny and bizarre and unsettling. It was so unsettling that he wondered if he wasn't cracking going crazy. Was this real, did the world continue on with the knowledge that everything would come crashing down on our watch, that life as we know it was done and no longer feasible, that we're already living in the vestiges of the fumes of the old world, and the new one that was to be born in flames out of the old?
+
+Sam inevitably tried to broach the subject among his circle, but was met with incredulity, impatience, and pure denial. At a cocktail party, whatever that is somewhere in the US, eastcoast ivy league vibes, dark sweater knits, wood paneled library, small paneled windows looking out into the snow falling, quieting and dampening the dark afternoon with their floating falling shadows; the tone is muted, it's pre-Thanksgiving social with drinks. Sam picks at the spread, expensive french cheese and local chartuerie board, beautifully laid out, with sculptured veggie plates and dipps, crackers, breads, olives, and pates that took up every inch of the large rustic table. It must have cost a pretty penny. Using metal tongs, Sam placed pieces of prociutto, melon, chees and a few crackers on his plate absent mindedly.
+
+Sam's mind was on the latest weather freak weather disaster that hit the east coast, a late season hurrican that pounded the major metros causing widespread flooding, with dozens dead and missing in New York, Boston, and Philly. The videos were frightening, lower Manhattan and parts of Brooklyn basically under water with over 10 feet of storm surge. The Freedom Tower and Empire State windows blown out by category 6 winds and debris. Just another 500 year storm in a year of record breaking heat and atomospheric anamolies. Shit was getting real, but all you heard were the usual talking points and the world carried on.
+
+Andrea approached, "And here is our west coast outcast, come in from the storm!" They hug one of those one armed hugs and catch up on each other's doings since last year.
+
+This is the knowledge that cleaved, the dark presentiment of a future tragedy that set you apart.
+
+Sam began to understand the need that Alex had felt, the need to warn, to convince, to show the people around him that we were on the fucking titanic and we have to change course 20 fucking years ago. That was really the cherry on top, the complete and total disconnect of people and everyday life from the cold hard reality of things. He felt like someone trapped in a Philip K. Dick story, where everyone lived a white picket fence fucking life but he knew that the asteroid was coming to hit earth and we were the dinosaurs going to be decimated in place.
 # Show conversation between Sam and another 'ratonal' person, Sam trying to convince him of the future but the guy just shruggs it off
 # Could be part of his attempt at activism, show the kind of limitedness of it here, they just ask for money and for you to join a mailign list where they ask for more money
 
@@ -133,6 +120,15 @@ The more Sam read and became immersed in the literature the more he was shocked 
 
 # Thinking about this and Sam would try to do what the current entrepreneurs are doing, he would try to solve it while making money, he would start a climate startup or try to join one
 # How can I dramatize a synopsis of a venture without going too deep into it and side tracked?  Maybe a podcast is a better idea
+
+* Sam is sad
+Sam lost interest in most things, in all the things he used to once enjoy, climbing at the local gym, the 12 dollar cold brew he regularly used to get, the entire design and tech sector, all the cool things, that he'd spend the last twenty years eating, living, and breathing seemed like part of the disease and misuse of everything. He could not reconcile the new found heavy truth of what he now knew with the everyday and it's concerns. He was in a classic Cassandra's bind. What does one do now?
+# Like all of this is telling instead of showing... like this whole thing needs to be rewritten, like how do I dramatize all of it in events instead of just narrating it?
+
+Sam almost fell into a drepression, there were days where he just doomscrolled the day away in bed, watching the colors burn and fade through the window curtains. Maybe if Sam had actually let himself feel, had been able to integrated the emotional and pyschological baggage of this existential knowledge and incorporate it, if he had been able to let it in and move into and through the darkness, Sam might have taken a different path. As it was, Sam stared into the horror of civilizational collapse, a thousand years of suffering, and decided; "I gotta save myself. I have to lookout for number one."
+# This turning point or transition could be better, like maybe he things or believes that he's going to be an island or a beacon in the desert somehow, he will help to restart the world and humanity. By helping himself he could help the world, by being selfish he was serving the greater good, this is the same logic that current climate startups and silicon valley implicitly believes and it's sickening.
+
+# Maybe add a short section on how he tries to do the right things and join a climate change group, but they are bogged down in fundraising and he gets assigned to cold call people and after a week of this he's had enough, and how he meets the activists and the radicals, and the hippies and he doesn't belong or fit with any of them...
 
 * Sam's next big thing
 # Sam is on a messiah kick, he feels like he's discovered something new, important, and actionable here and is motivated to act
@@ -185,14 +181,7 @@ Marketer speaking marketing speak; "Listener completion is down, our last sponso
 
 Matt rolls his eyes and feigns a yawn, "If you have an audience of zero, it doesn't matter how lofty your goals are. None of it will matter. If we have an audience, if we're successful then we can actually affect change Sam. What have we actually accomplished in the last year?"
 
-* Sam is sad
-Sam lost interest in most things, in all the things he used to once enjoy, climbing at the local gym, the 12 dollar cold brew he regularly used to get, the entire design and tech sector, all the cool things, that he'd spend the last twenty years eating, living, and breathing seemed like part of the disease and misuse of everything. He could not reconcile the new found heavy truth of what he now knew with the everyday and it's concerns. He was in a classic Cassandra's bind. What does one do now?
-# Like all of this is telling instead of showing... like this whole thing needs to be rewritten, like how do I dramatize all of it in events instead of just narrating it?
-
-Sam almost fell into a drepression, there were days where he just doomscrolled the day away in bed, watching the colors burn and fade through the window curtains. Maybe if Sam had actually let himself feel, had been able to integrated the emotional and pyschological baggage of this existential knowledge and incorporate it, if he had been able to let it in and move into and through the darkness, Sam might have taken a different path. As it was, Sam stared into the horror of civilizational collapse, a thousand years of suffering, and decided; "I gotta save myself. I have to lookout for number one."
-# This turning point or transition could be better, like maybe he things or believes that he's going to be an island or a beacon in the desert somehow, he will help to restart the world and humanity. By helping himself he could help the world, by being selfish he was serving the greater good, this is the same logic that current climate startups and silicon valley implicitly believes and it's sickening.
-
-# Maybe add a short section on how he tries to do the right things and join a climate change group, but they are bogged down in fundraising and he gets assigned to cold call people and after a week of this he's had enough, and how he meets the activists and the radicals, and the hippies and he doesn't belong or fit with any of them...
+"We managed to burn through a shit ton of money is what we did," Sam replied at a loss for something concrete he could point to, something he could say that they had accomplished, he wanted to look through his KPIs and his metrics but he knew that there the podcast previously was a failure, a disaster really, with subscriber numbers in the teens, weekly listener numbers in the sigle digits, and abysmal completion rates. Even with the additional marketing budget, the Getting Real About Climate Change podcast was just getting off the ground. They had tried everythign, t-shirt and shit giveaways, cross promotion with local shops with coupons, live call-in sessions, photo ops, nothing it seemed could get this off the ground.
 
 * Sam prepares for the collapse
 # Cut everything below or rework, go straight to "construction of bunker"
