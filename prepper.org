@@ -11,11 +11,13 @@ This is a story about a man's journey from the concerned, but too busy really to
 Sam was searching for the next big thing when he ran into Alex at TechSpo Labs conference in San Diego. Sam had been searching for the next big thing for 8 years, or in other words; for 3 girlfriends, 4 apartments, 3 Burning Mans, and 8,762 nitro cold brews Sam has been searching for a job.
 
 When you have 42.7 million in investments with an average return of 10.7%, you can take you time about things. In addtion for Sam, a product of an American upper class background, a job was a calling, a devotion, a reason d'etre, and so he was quite picky about it. When you don't have to work, it's hard to find a job.
+# Cut
 
-It was considered crass to talk about money; to talk about how much you had netted out from stock options in your startup, even though that was the final goal, just as it is considered crass to talk about death and philosophy as if you could be bothered.
+It was considered crass to talk about money; to talk about how much you had netted out from stock options in your startup, even though that was the final goal, just as it is considered crass to talk about death and philosophy as if you could be bothered. It was sad that you couldn't talk about real things with people anymore, politics, money, power, sickness, death, it was all taboo and climate change was one of them too now.
+# Cut or revise
 
 You just kind of knew, who was who and who had cashed out and how much. It was like a running leaderboard that was constantly in your mind or blasting the finaly tally in the sky. Something nobody really thought about or admitted to themselves was how most of the time it was just luck, it was just the luck whether you'd made it or failed. Post fact, they attributed it to technical wizardry, resiliance, their 'willingness to fail', risk tolerance, but generally it was most about where you were when and who you knew; of course ruthless business practices helped too but no one talked about these things just like no one really talks about anything in a bald faced no nonesense way. Everything you learn is mostly fairy tales. But moving on...
-
+# Cut or revise
 # My tone and subject matter is reminding me of that english writer... the one about fuck it will look it up later
 
 Sam was invited to TechSpo pre-party at a founder's house up on a hill overlooking the beach and the ocean. It was one of those southern california nights; 72 degrees farenheit, zero humidity, with cool westerly breeze that reminded you of the Greek islands,  wispy stratospheric clouds highlighing the sky and the setting sun across the bay. It was heaven and perfection on earth for those who had eyes to see, and heart to feel.
@@ -37,6 +39,7 @@ Sam had heard that Alex wasn't the same after his last trip to South American on
 "I thought," he continued, "if enough people understood, we'd reach a critical mass, a turning point right? Only 3% of the population needs to be mobilized for cultural change, that's a trusim now, right? There's so much we can do still, there's so much we can do collectively to mitigate a part of what's coming down the pipeline. But no one wants to hear it, no one wants to face any of it. It's too hairy and uncomfortble. The captains of industry and the best they can come up with is to make more climate change startups, the best and brightest in the world are nothing more than a bunch of faggots running around in a continual circle jerk."
 
 "I don't get it. So we're not going to reach the 1.5 Celcius target but we still have 30 years until..."
+# Add a non-sequitor here, show how Sam tries to divert and deflect the conversation in multiple ways
 
 Alex rolled his eyes at him, "I'm tired of your dumb shit Sam, you don't think the Pentagon and US goverment has contingency plans for what's coming? Do you know why Bill Gates is the 2nd largest agricultural land owner in North America? Do you know where Peter Thiel, and Larry Ellison's Doomsday bunkers are? Anybody who knows what's going on has already made plans, everything else is make believe at this point."
 
@@ -47,40 +50,60 @@ The only thing that kept Sam from shrugging all this off as another delusional f
 The manuscript Alex had thrust upon him was seemingly just a copy of the 2023 IPCC (Intergovernmental Panel on Climate Change) report, but on closer insepection it turned out to be a smuggled copy of an earlier draft that had not been released. Included in this unreleased document were printed email threads of the principle scientists and drafting committees, along with pages and pages of transcribed meeting notes, and additional studies.
 
 Sam was aware of the dire warnings of the 2023 report from the New York Times: "Climate Change Is Speeding Toward Catastrophe. The Next Decade Is Crucial, U.N. Panel Says," but he hadn't yet gotten around to reading the article, it was on his ever growing reading list. He had scrolled past and was already absorbed on the hundred bit of interesting tid bit of datum before he lost the thread.
+# Add details on what he saw while scrolling, and what he clicked on, and what he spent his time and attention on here
 
-* Sam changes his mind
+* Sam sees the white rabbit
 # I think something else needs to happen here, he goes to rejoin the party and just files it away for a while and keeps living his life and we see him with his girlfriend, and just list out his life like an ai calendar schedule or something. But something happens that makes him dig out the manuscript
 
 # Sam goes into the hole and he finds the facts or the things that were evident but he was too busy to think about, but it's all there really, there's nothing hidden, nothing secret, but it's like everyone thought it was someone else's job to figure out a fix. I mean it's been in the news since 1980 fuck
 
 # He tries to go back to normal life but he can't, it's that disjunct of the everyday with the immensity of the reality that you have, that I would like to describe in some way or dramatize, because that's the thing I'm trying to articulate really, that's the feeling that I have, that's the fucking thing that I want to express and yell out over the rooftops
 
-Sam walked back towards the house, the music, and the party, trying to make out the words in the manuscript, in search of a steady reading light. All the while reading the words of the manuscript Alex had pushed into his hands. Sam was not and never was an environmentalist, he was a technologist who believed in the distinctly San Palo Alto version of capitalist liberal tecno-optimism; there was a rational and likely technological solution to most problems and they could be solved by the free-market mechanism of free flowing capital moving towards the optimal solution set of entrepuerial enterprise.
+Sam walked back towards the house, the music, and the party, trying to make out the words in the manuscript, in search of a steady reading light.
+# Add physical detail of him walking through the house, past the dance floor, pool, the stobbing lights, the kitchen with drugs, each part of the party is an invitiation to linger and forget, like Odysseus but Sam pushes on and it's a real battle
+All the while reading the words of the manuscript Alex had pushed into his hands. Sam was not and never was an environmentalist, he was a technologist who believed in the distinctly San Palo Alto version of capitalist liberal tecno-optimism; there was a rational and likely technological solution to most problems and they could be solved by the free-market mechanism of free flowing capital moving towards the optimal solution set of entrepuerial enterprise.
 
-Sam was about to chuck the document Alex had pushed into his hands, think and heavy as a telephone book, somewhere and get back to the party but as Sam was skimming through, this passage stuck with him and reverberated in his mind: "We are in a precipitous moment in our climate history, where what we do or fail to do in the next 10 years will inevitably chart the course of earth's climatic future for the next millenia. If we fail to act, we will unleash the climate tipping points that will flip earth's climate into a new regime that no human has experienced in the 2 million years of our evolution."
+Sam was about to chuck the document Alex had pushed into his hands, thick and heavy as a telephone book somewhere and get back to the party but as Sam was skimming through, this passage stuck with him and reverberated in his mind: "We are in a precipitous moment in our climate history, where what we do or fail to do in the next 10 years will inevitably chart the course of earth's climatic future for the next millenia. If we fail to act, we will unleash the climate tipping points that will flip earth's climate into a new regime that no human has experienced in the 2 million years of our evolution."
+# Need a better catch phrase here like in the bear; 'every second counts,' 'let it rip'
 
 # The above quote is good, I'm impressed with me just winging that out of the blue. Possibly turn this into an argument or email thread of the scientists that compells Alex to read on, and possibly track down the scientist to try to talk to him. This is a good idea, an dramatic email exchange between the scientist arguing about something heatedly
 
 But as he sat in kitchenette bench next to the olypmic sized infinity pool, under a dome of warm LED lighting in wood paneled luxury imported fromt dying Indonesian hard wood forest, Sam read on and possibly for the first time, a glimmer of the thought began to grow in him like a seed, or a drop of dye dropped into a solution, that maybe, possibly, just maybe, there was a chance that tomorrow would not be better than yesterday; that maybe civilization and progress was not a linearly rising tide lifting all boats higher.
 
 For the duration of the evening Sam sat in the same spot as the party goers danced, drank, yelled coversation into each others ears over the noise of the electronic music and jostled around him reading through the 341 pages of the manuscript.
+# Need to summarize Sam's takeaway from the manuscript here, and hint at the scientist's anger, desperation, and the politics of compromise
 
 As the music cut and the revelers were beginning to disperse, Sam flipped closed the last page of printout glancing around at the detritus of the party. There were a few groupings of people still clinging on to the illusion that the party was still in progress; the bitter enders trying to get the party to continue among the empty squashed cups and half drunk bottles. Sam looked up and said to no one: "I found the next big thing." The girl sitting next to him, head collapses on arm, seemingly passed out leaned over and vomited quietly into his lap.
 
-* Sam in the rabbit hole
-In the following months Sam consumed everything he could about the subject of climate change. He tried his best to keep to the respected sources but the contrail of conspiracy and fringe thinking was everywhere. It seemed like everything was muddled, or was there a deliberate campaign to confuse and divert? And as he entered deeper into the subject, Sam had a harder time knowing what was conspiratorial fringe and what wasn't.
+* Sam goes into the rabbit hole
+Sam learned of the possible shutdown of the Atlantic Meridional Overturning Circulation, the moulins in the Greenland icesheet, the methane hydrates in the ocean floor sequestering an estiamted 2 gigatons of carbon, the thawing of the permafrost in Siberia, the ocean carbon cycle and how after a certain temp limit the ocean would turn from a carbon sink to a carbon producer, there was just so much, and so much unexpected interconnected factors and feedback cycles like the albedo effect
+# Add more summarized details here
 
-A substantial subset of climate change deniers believed that the issue was manufactured and staged to create a false sense of urgency to help the global, virgin-blood drinking, elite cabal usher in a new one world order.  But this was just more evidence of what was happening to the social order, the fracturing of the sense of shared reality, the convulsive and tortured expiriation of the shared national myth of America.
+It became blindingly clear to Sam that it was just a matter of time. Humanity had lit the fuse of a ticking planetary time bomb and it was just a matter of time until the slumbering monster awoke like it has so often before in the geological past, lurching from one climate regime into another and shaking everything off like fleas. Most people would die either quickly, some military scenarios commissioned by the Pentagon called envisioned up to 2 billion deaths once 2C was breached due to famine and war.
 
-The top climate scientists in the world were privately in a depressive panic at the unprecedented and rapid pace of change their instruments were measuring. Some took to drinking, some took to activism, others buried themselves grimly deeper into the the work like foot soldiers in a war. The burden of knowledge was anathema to them. There were even those who, completely disillusioned with the state of things had moved into hermit like seclusion in the woods or joined Luddite communities like the Ahmish in Pennsilvania, or the nomads in Mongolia.
+The more Sam read and became immersed in the literature the more he was shocked at how obviously dire things were, but the world kept going, you still went on vacation and still worried about retirement and still socked in $200 a month for your child's 429, the disconnect from what he knew and the reality around him was uncanny and bizarre and unsettling.
+
+He was like a man who had been issued a terminal diagnosis, who's mouth is full of ashes but must maintain a pretense that any of the rest matters; the mortgage, the burnt toast, the spilt milk.
+
+It was so unsettling that he wondered if he wasn't cracking going crazy. Was this real, did the world continue on with the knowledge that everything would come crashing down on our watch, that life as we know it was done and no longer feasible, that we're already living in the vestiges of the fumes of the old world, and the new one that was to be born in flames out of the old? Was this what was like to live in the days prior to the great world wars, a sense of immpending doom on the horizon, but the merry go round continuing to circle brightly with it's gay lights and music.
+
+# Want to do some reading and research on the topics above, want this to be drawn from real studies with appendix. But more than really getting bogged down here with details and science, maybe it can be just quotes, blurbs, titles, social media posts that show each
+# A new method or something needs to change here
+# Add the different planetary epochs that are relevant, I want this to also be an educational
+# Paleocene-Eocene Thermal Maximum PETM
+# Add a scene or story line about a help group talk theraphy session? I am in climate grief and I don't know what to do
+
+The top climate scientists in the world were privately in a depressive panic at the unprecedented and rapid pace of change their instruments were measuring. Some took to drinking, some took to activism, others buried themselves grimly deeper into the the work like foot soldiers in a war.
+# Add the complete lack of progress here, highlight Carl Sagan and Jim Hansan's congressional testimony with exerpts in the 1980s
+
+The burden of knowledge was anathema to them. There were those who, completely disillusioned with the state of things had moved into hermit like seclusion in the woods or joined Luddite nomadic communities in the plains of Mongolia.
 
 There were more and more articles about 'climate grief' and 'climate anxiety.' The scientist were the canaries in the coalmine, the Cassandras who could see clearly see the coming calamity but were powerless to do anything in their knowledge and so they suffered, often alone and isolated.
 
-# Maybe Sam reaches out to one of these scientists for feedback and advice, and hires him as a consultant. Might be a good personality clash and drama in their interactions
-# Agree with above, quickly dramatizing the scene somehow
+Sam reaches out to a friend who is a friend of someone who knows one of the ICPPs reviewers on climate paleontology and had a thread of forceful emails with the ICPP planning committee on the manuscript Alex thrust on him that fateful night. They correspond briefly and Peter emails Alex; "There's a thing I'm going to be around x area for, why don't you come crash it and we can talk."
+# Show and detail the comment thread
 
-These were ivy league trained scientists who forsook possible million dollar careers as AI engineers and quants at hedge funds, possibly the greatest collection of altruistic minds sharpened to a find point of occam's razor, trained with the most powerful supercomputers in the world basically saying that we're about to hit the proverbial iceberg in the ocean in the next 5 to 10 years until we change course and what do we do about it?
-# Cut or rework
+Peter was among the last of the old time academics, these were ivy league trained scientists who forsook possible million dollar careers as AI engineers and quants at hedge funds, possibly the greatest collection of altruistic minds sharpened to a find point of occam's razor, trained with the most powerful supercomputers in the world. It seemed foolish not to take these people seriously.  Basically saying that we're about to hit the proverbial iceberg in the ocean in the next 5 to 10 years until we change course.
 
 The scientists no longer went to parties, or social events, they felt that they could not make small talk, or continue to play the game of polite boroque western civilization games when the whole thing was heading off a cliff faster and faster than they could report.
 
@@ -88,26 +111,21 @@ When their neighbors talked about spending their summers in Spain or flying to t
 # Dramatize with Sam as suggested below
 # It might actually be a decent scene vs narration, where maybe Sam is the one who chokes, maybe it's his girlfriend
 
-Sam learned of the possible shutdown of the Atlantic Meridional Overturning Circulation, the moulins in the Greenland icesheet, the methane hydrates in the ocean floor sequestering an estiamted 2 gigatons of carbon, the thawing of the permafrost in Siberia, the ocean carbon cycle and how after a certain temp limit the ocean would turn from a carbon sink to a carbon producer, and the more he knew, the more he marveled. He marveled at the how the world just kept going on. He was like a man who had been issued a terminal diagnosis, who's mouth is full of ashes but must maintain a pretense that any of the rest matters; the mortgage, the burnt toast, the spilt milk.
-
-It became blindingly clear to Sam that it was just a matter of time. Humanity had lit the fuse of a ticking planetary time bomb and it was just a matter of time until the slumbering monster awoke like it has so often before in the past, lurching from one climate regime into another and shaking everything off like fleas. Most people would die either quickly or slowly, most models called for up to 3 billion die off once 2C was reached due to famine.
-# Want to do some reading and research on the topics above, want this to be drawn from real studies with appendix. But more than really getting bogged down here with details and science, maybe it can be just quotes, blurbs, titles, social media posts that show each
-# A new method or something needs to change here
-# Add the different planetary epochs that are relevant, I want this to also be an educational
-# Paleocene-Eocene Thermal Maximum PETM
-# ...
-# ...
-# ...
-# Add a scene or story line about a help group talk theraphy session? I am in climate grief and I don't know what to do
-# !There's too much description and summarizing through this entire section, need to shorten, cut or make it dramatic somehow, rhythm is off!
-
-The more Sam read and became immersed in the literature the more he was shocked at how obviously dire things were, but the world kept going, you still went on vacation and still worried about retirement and still socked in $200 a month for your child's 429, the disconnect from what he knew and the reality around him was uncanny and bizarre and unsettling. It was so unsettling that he wondered if he wasn't cracking going crazy. Was this real, did the world continue on with the knowledge that everything would come crashing down on our watch, that life as we know it was done and no longer feasible, that we're already living in the vestiges of the fumes of the old world, and the new one that was to be born in flames out of the old?
 
 Sam inevitably tried to broach the subject among his circle, but was met with incredulity, impatience, and pure denial. At a cocktail party, whatever that is somewhere in the US, eastcoast ivy league vibes, dark sweater knits, wood paneled library, small paneled windows looking out into the snow falling, quieting and dampening the dark afternoon with their floating falling shadows; the tone is muted, it's pre-Thanksgiving social with drinks. Sam picks at the spread, expensive french cheese and local chartuerie board, beautifully laid out, with sculptured veggie plates and dipps, crackers, breads, olives, and pates that took up every inch of the large rustic table. It must have cost a pretty penny. Using metal tongs, Sam placed pieces of prociutto, melon, chees and a few crackers on his plate absent mindedly.
 
 Sam's mind was on the latest weather freak weather disaster that hit the east coast, a late season hurrican that pounded the major metros causing widespread flooding, with dozens dead and missing in New York, Boston, and Philly. The videos were frightening, lower Manhattan and parts of Brooklyn basically under water with over 10 feet of storm surge. The Freedom Tower and Empire State windows blown out by category 6 winds and debris. Just another 500 year storm in a year of record breaking heat and atomospheric anamolies. Shit was getting real, but all you heard were the usual talking points and the world carried on.
 
 Andrea approached, "And here is our west coast outcast, come in from the storm!" They hug one of those one armed hugs and catch up on each other's doings since last year.
+# I kinda feel like it could go on like this forever, not necessarily happy with this approach, like how do I set up the scenes in a simple way or tell the story in a efficient way instead of doing all this.  Maybe just need to write it out, get lost, and do it the wrong way first, not sure but doesn't help me feeling like this
+
+Sam has been making it a habit of broaching the topic of climate change regularly during conversation with people he was somewhat close to, people who he thought would be open to having an open discussion about the topic. It was easy enough to bring up because it would always come up with what he was doing.
+
+"What are you up to these days Sam?" Andrea asked.
+
+"I started the climate action podcast, I've been putting that out every week. You know, but it's hard to get traction, the market's too splintered and there's just so much out there.
+
+# I would like to show a few different types of reactions, all of them sympathetic but all of them not helpful
 
 This is the knowledge that cleaved, the dark presentiment of a future tragedy that set you apart.
 
@@ -121,7 +139,7 @@ Sam began to understand the need that Alex had felt, the need to warn, to convin
 # Thinking about this and Sam would try to do what the current entrepreneurs are doing, he would try to solve it while making money, he would start a climate startup or try to join one
 # How can I dramatize a synopsis of a venture without going too deep into it and side tracked?  Maybe a podcast is a better idea
 
-* Sam is sad
+* Sam gets depressed
 Sam lost interest in most things, in all the things he used to once enjoy, climbing at the local gym, the 12 dollar cold brew he regularly used to get, the entire design and tech sector, all the cool things, that he'd spend the last twenty years eating, living, and breathing seemed like part of the disease and misuse of everything. He could not reconcile the new found heavy truth of what he now knew with the everyday and it's concerns. He was in a classic Cassandra's bind. What does one do now?
 # Like all of this is telling instead of showing... like this whole thing needs to be rewritten, like how do I dramatize all of it in events instead of just narrating it?
 
